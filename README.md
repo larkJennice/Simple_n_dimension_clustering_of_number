@@ -1,1 +1,1 @@
-# Simple_n_dimension_clustering_of_number
+# Simple_n_dimension_coordinates_clustering
